@@ -1,0 +1,5 @@
+package com.ayurweda.ayurweda.Repo;
+
+public interface UserRepo {
+
+}

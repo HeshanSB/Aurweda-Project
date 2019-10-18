@@ -1,0 +1,5 @@
+package com.ayurweda.ayurweda.Service;
+
+public class UserService {
+
+}
